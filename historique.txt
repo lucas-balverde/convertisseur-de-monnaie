@@ -1,0 +1,6 @@
+6.0 Euro -> 5.0 USD -> None Euro
+65.0 Euro -> None USD
+84.0 Euro -> None USD
+56.0 EUR -> 60.869565217391305 USD
+10.0 JPY -> 0.016 GBP
+10.0 GBP -> 12.5 USD
